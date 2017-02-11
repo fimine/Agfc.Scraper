@@ -1,0 +1,6 @@
+C:\GitSource\Repos\AgfcScraper\Agfc.Scraper\bin\Debug\netcoreapp1.0\Agfc.Scraper.dll
+C:\GitSource\Repos\AgfcScraper\Agfc.Scraper\bin\Debug\netcoreapp1.0\Agfc.Scraper.pdb
+C:\GitSource\Repos\AgfcScraper\Agfc.Scraper\obj\Debug\netcoreapp1.0\Agfc.Scraper.csprojResolveAssemblyReference.cache
+C:\GitSource\Repos\AgfcScraper\Agfc.Scraper\obj\Debug\netcoreapp1.0\Agfc.Scraper.AssemblyInfo.cs
+C:\GitSource\Repos\AgfcScraper\Agfc.Scraper\obj\Debug\netcoreapp1.0\Agfc.Scraper.dll
+C:\GitSource\Repos\AgfcScraper\Agfc.Scraper\obj\Debug\netcoreapp1.0\Agfc.Scraper.pdb
