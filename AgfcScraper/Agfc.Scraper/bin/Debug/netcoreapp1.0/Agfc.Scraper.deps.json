@@ -1,18 +1,31 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v1.0",
-    "signature": "1e4b49e68c5859cc341cb3d31a134257e03424de"
+    "signature": "3f9f0c06dbaec1db2ccbd76e07fb89ba45476272"
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v1.0": {
       "agfc.scraper/1.0.0": {
         "dependencies": {
+          "HtmlAgilityPack.NetCore": "1.5.0.1",
           "Microsoft.NET.Sdk": "1.0.0-alpha-20161104-2",
           "System.Text.Encoding.CodePages": "4.3.0"
         },
         "runtime": {
           "Agfc.Scraper.dll": {}
+        }
+      },
+      "htmlagilitypack.netcore/1.5.0.1": {
+        "dependencies": {
+          "System.Collections": "4.3.0",
+          "System.Runtime": "4.3.0",
+          "System.Runtime.Extensions": "4.3.0",
+          "System.Runtime.InteropServices": "4.3.0",
+          "System.Threading": "4.3.0"
+        },
+        "runtime": {
+          "lib/netstandard1.3/HtmlAgilityPack.NetCore.dll": {}
         }
       },
       "microsoft.net.sdk/1.0.0-alpha-20161104-2": {
@@ -157,6 +170,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "htmlagilitypack.netcore/1.5.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-N6FUlFbidfiWu1TcrNDQufaU5TbZ2RRn+kYHjwsLxcklQU8Cnmul+pTn2clKausZRHeFVxGp2ZECIWuDvot8Hg==",
+      "path": "htmlagilitypack.netcore/1.5.0.1",
+      "hashPath": "htmlagilitypack.netcore.1.5.0.1.nupkg.sha512"
     },
     "microsoft.net.sdk/1.0.0-alpha-20161104-2": {
       "type": "package",
